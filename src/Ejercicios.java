@@ -81,3 +81,4 @@ public class Ejercicios {
 
 	}
 }
+// Gracias por haber impartido la clase de programacion 1 aprendi lo suficiente Gracias buen Dia..
