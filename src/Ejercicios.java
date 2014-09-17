@@ -58,6 +58,7 @@ public class Ejercicios {
 			return 20;
 		return recursiva1(n - 1) - recursiva1(n - 2);
 	}
+	//buen dia ingeniero en este examen eh aplicado los estudios que he aprendido en la clase!!
 
 	// Realizar la siguiente funcion recursiva
 	// recursiva2(n) = recursiva2(n-1) + recursiva2(n-2) * recursiva2(n-3)
